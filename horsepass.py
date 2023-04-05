@@ -21,7 +21,7 @@ breed_list = ["Thoroughbred", "Arabian", "QuarterHorse", "PaintHorse", "Appaloos
 
 related_words = ["Mare", "Stallion", "Filly", "Foal", "Colt", "Pony", "Plinko", "Horse"]
 
-locations = ["Helsinki", "Lexington", "BuenosAires", "Dubai", "Paris", "Tokyo", "Orlando", "Aachen", "Syndey"]
+locations = ["Helsinki", "Lexington", "BuenosAires", "Dubai", "Paris", "Tokyo", "Orlando", "Aachen", "Sydney"]
 
 password_list = []
 for i in range(10):
