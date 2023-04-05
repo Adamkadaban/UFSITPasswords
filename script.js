@@ -19,7 +19,7 @@ const breedList = ["Thoroughbred", "Arabian", "QuarterHorse", "PaintHorse", "App
 
 const relatedWords = ["Mare", "Stallion", "Filly", "Foal", "Colt", "Pony", "Plinko", "Horse"];
 
-let locations = ["Helsinki", "Lexington", "BuenosAires", "Dubai", "Paris", "Tokyo", "Orlando", "Aachen", "Syndey"];
+let locations = ["Helsinki", "Lexington", "BuenosAires", "Dubai", "Paris", "Tokyo", "Orlando", "Aachen", "Sydney"];
 
 const numPasswords = 10;
 
