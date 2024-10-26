@@ -1,25 +1,8 @@
-const breedList = ["Thoroughbred", "Arabian", "QuarterHorse", "PaintHorse", "Appaloosa",
-                   "Walking", "Standardbred", "Andalusian", "Percheron", "Morgan", "Friesian",
-                   "PasoFino", "Welsh", "Shetland", "Clydesdale", "Palomino", "Haflinger",
-                   "Mustang", "AkhalTeke", "GypsyVanner", "Pegasus", "Lusitano", "Connemara",
-                   "Trakehner", "Hanoverian", "Oldenburg", "SelleFrancais", "Holsteiner",
-                   "IrishSport", "Lipizzan", "Freiberger", "Knabstrupper", "RockyMountain",
-                   "TennesseeWalking", "AmericanSaddlebred", "Icelandic", "Peruvian", "Canadian",
-                   "DutchWarmblood", "Fjord", "NorwegianFjord", "BelgianWarmblood", "SwedishWarmblood",
-                   "DanishWarmblood", "GermanWarmblood", "AustralianStock", "Criollo",
-                   "SuffolkPunch", "NewForest", "WelshCob", "Hackney", "Highland",
-                   "ThuringianWarmblood", "Westphalian", "Fell", "Galician",
-                   "ArabianCross", "Trotter", "Gelderlander", "OrlovTrotter", "Pintabian",
-                   "Morab", "Warlander", "IrishCob", "Dartmoor", "Exmoor",
-                   "BashkirCurly", "BlackForest", "Brandenburger", "HaflingerCross",
-                   "IrishDraught", "Jutland", "Karabakh", "LipizzanCross", "Mecklenburger",
-                   "Miniature", "Mule", "MustangCross", "NormanCob", "Pleven", "Sanhe",
-                   "SchleswigerHeavyDraft", "Schwarzwald", "Senner", "SpanishJennet",
-                   "Taishuh", "Tawleed", "Tchernomor", "Waler", "Wielkopolski", "Knugget"];
+const breedList = ["Calico", "Tabby", "Orange", "Bengal", "Bombay", "Burmese", "Persian", "Ragdoll", "Siamese", "Sphynx", "Russian"];
 
-const relatedWords = ["Mare", "Stallion", "Filly", "Foal", "Colt", "Pony", "Plinko", "Horse"];
+const relatedWords = ["Chicken", "Tenders", "Jack", "Back", "Hack", "Red", "Blue", "Orange", "Green"];
 
-let locations = ["Helsinki", "Lexington", "BuenosAires", "Dubai", "Paris", "Tokyo", "Orlando", "Aachen", "Sydney"];
+let locations = ["Gainesville", "Orlando", "Roschester", "Charles", "Jacksonville", "Miami"];
 
 const numPasswords = 10;
 
